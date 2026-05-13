@@ -28,7 +28,15 @@ README v4: dialled back for deeptech/HF-audience credibility.
   <img alt="Location" src="https://img.shields.io/badge/London%2C%20UK-555?style=flat&logo=googlemaps&logoColor=white">
 </p>
 
+<p align="center">
+  <a href="https://huggingface.co/spaces/t22000t/clinical-ai-gradcam-demo"><img alt="Try the Clinical AI demo" src="https://img.shields.io/badge/%E2%96%B6%20Try%20the%20Clinical%20AI%20demo-0EA5E9?style=for-the-badge&logoColor=white"></a>
+  <a href="https://github.com/osirixgrpc/osirixgrpc"><img alt="View the OsiriXgrpc plugin" src="https://img.shields.io/badge/%E2%9C%A6%20View%20the%20OsiriXgrpc%20plugin-1E3A8A?style=for-the-badge&logoColor=white"></a>
+  <a href="mailto:timothy22000@gmail.com"><img alt="Get in touch" src="https://img.shields.io/badge/%E2%9C%89%20Get%20in%20touch-0F172A?style=for-the-badge&logoColor=white"></a>
+</p>
+
 ---
+
+> **TLDR.** PhD in AI and Cancer Imaging at the Institute of Cancer Research; co-created [OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc), a clinical AI plugin deployed at The Royal Marsden serving care for 65,000+ patients/year. Previously delivered a 30% volume uplift on motor new business in commercial ML at Ageas Insurance. 11 abstracts/papers across MICCAI, AAAI, ISMRM, MIDL. Now running an AI and data analytics consultancy.
 
 ### About
 
@@ -48,26 +56,51 @@ Now running an AI and data analytics consultancy taking projects from scoping th
 
 ### Selected track record
 
-| Domain | Result |
+<table>
+<tr>
+<td width="33%" align="center">
+<h4>🏥 Healthcare AI</h4>
+<h2>65,000+</h2>
+<sub>patients per year</sub><br/><br/>
+<sub><a href="https://github.com/osirixgrpc/osirixgrpc">OsiriXgrpc</a> deployed at<br/>The Royal Marsden Hospital</sub>
+</td>
+<td width="33%" align="center">
+<h4>📈 Commercial ML</h4>
+<h2>30%</h2>
+<sub>volume uplift</sub><br/><br/>
+<sub>Motor new business at Ageas<br/>via ML-optimised pricing</sub>
+</td>
+<td width="33%" align="center">
+<h4>📚 Research</h4>
+<h2>11</h2>
+<sub>abstracts / papers</sub><br/><br/>
+<sub>MICCAI · AAAI · ISMRM · MIDL<br/>CRUK 4-Year PhD Studentship</sub>
+</td>
+</tr>
+</table>
+
+| Domain | Detail |
 |---|---|
 | Healthcare AI | Co-created **[OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc)** - a gRPC plugin for OsiriX that brings real-time AI inference into radiologists' DICOM workflows. Deployed at **The Royal Marsden Hospital**, supporting care pathways for **65,000+ patients/year**. Funded by the MedTech SuperConnector and the Sarcoma Accelerator Consortium. |
 | Commercial ML | Led ML pricing at Ageas - delivered a **30% volume uplift** on motor new business |
-| Research | **11 peer-reviewed publications** (MICCAI, AAAI, ISMRM, MIDL). Cancer Research UK 4-Year PhD Studentship |
+| Research | **11 abstracts/papers** (MICCAI, AAAI, ISMRM, MIDL). Cancer Research UK 4-Year PhD Studentship |
 | Open source | Contributor to [The Turing Way](https://github.com/the-turing-way/the-turing-way) (2.1k★) and [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) (788★) |
+
+> *"...the Medical Computer Vision Practical Tim produced has been used by multiple medical student cohorts to better understand what goes on under the hood in a computer vision classifier. I strongly recommend him for the person he is and the expertise he holds."*
+>
+> **Nicholas Fuggle** · Associate Professor of Rheumatology · Co-organiser, Alan Turing Institute Clinical AI Interest Group
 
 ---
 
 ### How OsiriXgrpc works
 
-```mermaid
-flowchart LR
-    A[OsiriX / Horos<br/>DICOM viewer] <-->|gRPC| B[pyosirix client<br/>Python + PyTorch]
-    B --> C[Inference<br/>nnU-Net, MedSAM,<br/>DINOv2, MedGemma]
-    C -->|ROI / mask /<br/>overlay| A
-    A --> D[Radiologist<br/>workflow at<br/>Royal Marsden]
-```
+<p align="center">
+  <a href="https://github.com/osirixgrpc/osirixgrpc">
+    <img src="./osirixgrpc-architecture.svg" alt="OsiriXgrpc architecture diagram" />
+  </a>
+</p>
 
-Removes the historical bottleneck for clinical AI translation: state-of-the-art models live in Python, but radiologists work in OsiriX. The plugin lets the two talk in real time, without forcing the clinical team to leave their viewing environment.
+Removes the historical bottleneck for clinical AI translation: state-of-the-art models live in Python, but radiologists work in OsiriX. The plugin lets the two talk in real time, without forcing the clinical team to leave their viewing environment. **Source & documentation:** [github.com/osirixgrpc/osirixgrpc](https://github.com/osirixgrpc/osirixgrpc) · [osirixgrpc.github.io](https://osirixgrpc.github.io).
 
 ---
 
@@ -104,7 +137,10 @@ Follow [@t22000t](https://huggingface.co/t22000t) for updates.
 
 ---
 
-### Tech I use most
+<details>
+<summary><strong>Tech I use most</strong> &nbsp;<sub>(click to expand)</sub></summary>
+
+<br/>
 
 **ML & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -136,6 +172,8 @@ Follow [@t22000t](https://huggingface.co/t22000t) for updates.
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat)
+
+</details>
 
 ---
 

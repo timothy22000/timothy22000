@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="title desc">
+  <title id="title">OsiriXgrpc - Clinical AI plugin architecture</title>
+  <desc id="desc">A gRPC bridge between OsiriX DICOM viewer and Python AI inference, deployed at The Royal Marsden Hospital</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="leftBox" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E40AF"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="rightBox" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#0369A1"/>
+    </linearGradient>
+    <linearGradient id="deployBox" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C2D12" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#451A03" stop-opacity="0.25"/>
+    </linearGradient>
+    <marker id="arrowEnd" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 1 L 9 5 L 0 9 z" fill="#94A3B8"/>
+    </marker>
+    <marker id="arrowStart" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 10 1 L 1 5 L 10 9 z" fill="#94A3B8"/>
+    </marker>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="0" dy="3" result="offsetblur"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="420" rx="14" fill="url(#bgGrad)"/>
+
+  <text x="450" y="44" fill="#F1F5F9" font-size="21" font-weight="700" text-anchor="middle" letter-spacing="-0.3">OsiriXgrpc</text>
+  <text x="450" y="68" fill="#94A3B8" font-size="13" text-anchor="middle">Real-time AI inference inside radiologists' native DICOM workflows</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="60" y="120" width="320" height="150" rx="14" fill="url(#leftBox)" stroke="#3B82F6" stroke-width="1.2" stroke-opacity="0.6"/>
+  </g>
+  <text x="220" y="158" fill="#FFFFFF" font-size="17" font-weight="600" text-anchor="middle">OsiriX / Horos</text>
+  <text x="220" y="180" fill="#BFDBFE" font-size="12" text-anchor="middle">macOS DICOM viewer</text>
+  <line x1="100" y1="198" x2="340" y2="198" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.35"/>
+  <text x="220" y="222" fill="#E0E7FF" font-size="12" text-anchor="middle">+ OsiriXgrpc plugin</text>
+  <text x="220" y="242" fill="#C7D2FE" font-size="11" text-anchor="middle">C++ &#183; Objective-C &#183; gRPC server</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="520" y="120" width="320" height="150" rx="14" fill="url(#rightBox)" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.6"/>
+  </g>
+  <text x="680" y="158" fill="#FFFFFF" font-size="17" font-weight="600" text-anchor="middle">pyosirix client</text>
+  <text x="680" y="180" fill="#BAE6FD" font-size="12" text-anchor="middle">Python &#183; gRPC</text>
+  <line x1="560" y1="198" x2="800" y2="198" stroke="#7DD3FC" stroke-width="0.8" stroke-opacity="0.35"/>
+  <text x="680" y="222" fill="#E0F2FE" font-size="12" text-anchor="middle">nnU-Net &#183; MedSAM &#183; DINOv2</text>
+  <text x="680" y="242" fill="#BAE6FD" font-size="11" text-anchor="middle">MedGemma &#183; custom PyTorch models</text>
+
+  <line x1="380" y1="195" x2="520" y2="195" stroke="#94A3B8" stroke-width="1.6" marker-start="url(#arrowStart)" marker-end="url(#arrowEnd)"/>
+  <rect x="425" y="178" width="50" height="20" rx="10" fill="#1E293B" stroke="#475569" stroke-width="0.8"/>
+  <text x="450" y="192" fill="#E2E8F0" font-size="11" font-weight="600" text-anchor="middle">gRPC</text>
+  <text x="450" y="222" fill="#64748B" font-size="10" text-anchor="middle">images &#183; masks &#183; overlays</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="180" y="305" width="540" height="84" rx="12" fill="url(#deployBox)" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.45"/>
+  </g>
+  <text x="450" y="335" fill="#FDBA74" font-size="15" font-weight="600" text-anchor="middle">Deployed at The Royal Marsden Hospital</text>
+  <text x="450" y="357" fill="#FED7AA" font-size="12" text-anchor="middle">Supporting care pathways for 65,000+ patients per year</text>
+  <text x="450" y="378" fill="#94A3B8" font-size="11" text-anchor="middle">MedTech SuperConnector &#183; Sarcoma Accelerator Consortium &#183; Institute of Cancer Research</text>
+</svg>
