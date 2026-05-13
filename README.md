@@ -8,7 +8,7 @@ Skips junior-register elements (animated typing, GIFs, gamified streaks).
 <h1 align="center">Timothy Sum Hon Mun</h1>
 
 <p align="center">
-  <em>AI/ML Scientist & Engineer · Founder, MIRAI Analytics · PhD Medical Imaging AI (ICR)</em><br/>
+  <em>AI/ML Scientist &amp; Engineer · Founder, MIRAI Analytics · PhD Medical Imaging AI (ICR)</em><br/>
   <em>Building production AI across healthcare, insurance, and applied research.</em>
 </p>
 
