@@ -11,12 +11,12 @@ README v4: dialled back for deeptech/HF-audience credibility.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=190&section=header&text=Timothy%20Sum%20Hon%20Mun&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Scientist%20%26amp%3B%20Engineer%20%E2%80%A2%20Founder%2C%20MIRAI%20Analytics&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Timothy%20Sum%20Hon%20Mun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Scientist%20%26amp%3B%20Engineer%20%7C%20PhD%20AI%20and%20Cancer%20Imaging%20%28ICR%29%20%7C%20Clinical%20AI%20%C2%B7%20Insurance%20Pricing%20%C2%B7%20Applied%20Research&descSize=14&descAlign=50&descAlignY=60&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/timothy22000">
-    <img src="https://readme-typing-svg.demolab.com?lines=Building+production+AI+across+healthcare%2C+insurance%2C+and+applied+research;PhD+Medical+Imaging+AI+%C2%B7+Institute+of+Cancer+Research+%C2%B7+11+papers&font=JetBrains+Mono&size=15&center=true&width=760&height=36&color=64748B&pause=3000&duration=4000" alt="positioning" />
+    <img src="https://readme-typing-svg.demolab.com?lines=Building+AI+across+healthcare%2C+insurance%2C+and+applied+research;PhD+AI+and+Cancer+Imaging+%C2%B7+Institute+of+Cancer+Research+%C2%B7+11+abstracts%2Fpapers&font=JetBrains+Mono&size=15&center=true&width=780&height=36&color=64748B&pause=3000&duration=4000" alt="positioning" />
   </a>
 </p>
 
