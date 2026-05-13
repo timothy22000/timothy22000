@@ -123,7 +123,13 @@ More models in development. Follow [@t22000t](https://huggingface.co/t22000t) fo
 </p>
 
 <p align="center">
-  <img src="./github-achievements.svg" alt="GitHub achievements" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=timothy22000&theme=default" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timothy22000&theme=default" alt="Most-commit languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timothy22000&theme=default" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timothy22000&theme=default&utcOffset=0" alt="Productive time" />
 </p>
 
 ---
