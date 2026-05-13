@@ -36,7 +36,7 @@ README v4: dialled back for deeptech/HF-audience credibility.
 
 ---
 
-> **TLDR.** PhD in AI and Cancer Imaging at the Institute of Cancer Research; co-created [OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc), a clinical AI plugin deployed at The Royal Marsden serving care for 65,000+ patients/year. Previously delivered a 30% volume uplift on motor new business in commercial ML at Ageas Insurance. 11 abstracts/papers across MICCAI, AAAI, ISMRM, MIDL. Now running an AI and data analytics consultancy.
+> **TLDR.** PhD in AI and Cancer Imaging at the Institute of Cancer Research; co-created [OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc), a clinical AI plugin used at The Royal Marsden serving care for patients. Previously delivered a 30% volume uplift and £5M increase in GWP on motor new business in commercial ML at Ageas Insurance. 11 abstracts/papers across MICCAI, AAAI, ISMRM, MIDL. Now running an AI and data analytics consultancy.
 
 ### About
 
@@ -60,14 +60,14 @@ Now running an AI and data analytics consultancy taking projects from scoping th
 <tr>
 <td width="33%" align="center">
 <h4>🏥 Healthcare AI</h4>
-<h2>65,000+</h2>
-<sub>patients per year</sub><br/><br/>
-<sub><a href="https://github.com/osirixgrpc/osirixgrpc">OsiriXgrpc</a> deployed at<br/>The Royal Marsden Hospital</sub>
+<h2>OsiriXgrpc</h2>
+<sub>clinical AI plugin</sub><br/><br/>
+<sub>Used at<br/><a href="https://www.royalmarsden.nhs.uk/">The Royal Marsden Hospital</a></sub>
 </td>
 <td width="33%" align="center">
 <h4>📈 Commercial ML</h4>
-<h2>30%</h2>
-<sub>volume uplift</sub><br/><br/>
+<h2>£5M</h2>
+<sub>GWP uplift · 30% new-business volume</sub><br/><br/>
 <sub>Motor new business at Ageas<br/>via ML-optimised pricing</sub>
 </td>
 <td width="33%" align="center">
@@ -81,8 +81,8 @@ Now running an AI and data analytics consultancy taking projects from scoping th
 
 | Domain | Detail |
 |---|---|
-| Healthcare AI | Co-created **[OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc)** - a gRPC plugin for OsiriX that brings real-time AI inference into radiologists' DICOM workflows. Deployed at **The Royal Marsden Hospital**, supporting care pathways for **65,000+ patients/year**. Funded by the MedTech SuperConnector and the Sarcoma Accelerator Consortium. |
-| Commercial ML | Led ML pricing at Ageas - delivered a **30% volume uplift** on motor new business |
+| Healthcare AI | Co-created **[OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc)** - a gRPC plugin for OsiriX that brings real-time AI inference into radiologists' DICOM workflows. **Used at The Royal Marsden Hospital**, serving care for patients. Funded by the MedTech SuperConnector and the Sarcoma Accelerator Consortium. |
+| Commercial ML | Led ML pricing at Ageas - delivered a **30% volume uplift and £5M increase in GWP** on motor new business |
 | Research | **11 abstracts/papers** (MICCAI, AAAI, ISMRM, MIDL). Cancer Research UK 4-Year PhD Studentship |
 | Open source | Contributor to [The Turing Way](https://github.com/the-turing-way/the-turing-way) (2.1k★) and [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) (788★) |
 
