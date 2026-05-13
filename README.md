@@ -1,15 +1,18 @@
 <!--
-README v2: structured, restrained, VP-tier register.
-Uses select dynamic widgets (auto-updating stats, top languages),
-skill badges via shields.io, and clean social-link badges.
-Skips junior-register elements (animated typing, GIFs, gamified streaks).
+README v3: adds animated header (capsule-render), typing SVG cycling
+credibility lines, and lowlighter/metrics for comprehensive stats.
+Maintains VP-tier register: animations are tasteful, content-led, and used
+as visual scaffolding rather than decoration.
 -->
 
-<h1 align="center">Timothy Sum Hon Mun</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=180&section=header&text=Timothy%20Sum%20Hon%20Mun&fontSize=36&fontColor=ffffff&desc=AI%2FML%20Scientist%20%26amp%3B%20Engineer%20%E2%80%A2%20Founder%2C%20MIRAI%20Analytics&descSize=16&descAlign=50&descAlignY=70" alt="header" />
+</p>
 
 <p align="center">
-  <em>AI/ML Scientist &amp; Engineer · Founder, MIRAI Analytics · PhD Medical Imaging AI (ICR)</em><br/>
-  <em>Building production AI across healthcare, insurance, and applied research.</em>
+  <a href="https://github.com/timothy22000">
+    <img src="https://readme-typing-svg.demolab.com?lines=Building+production+AI+across+healthcare%2C+insurance%2C+research;Founder%2C+MIRAI+Analytics;PhD+Medical+Imaging+AI+%C2%B7+Institute+of+Cancer+Research;Clinical+AI+shipped+to+65%2C000%2B+patients%2Fyear&font=Fira+Code&size=18&center=true&width=720&height=42&color=3B82F6&pause=1500" alt="typing" />
+  </a>
 </p>
 
 <p align="center">
@@ -23,15 +26,17 @@ Skips junior-register elements (animated typing, GIFs, gamified streaks).
 
 ### About
 
-I build AI systems across healthcare, insurance, and applied research. PhD in medical imaging AI from the Institute of Cancer Research, where I shipped a clinical AI platform now used at The Royal Marsden Hospital. Before research, I led ML-driven pricing at Ageas Insurance.
+I build production AI systems across healthcare, insurance, and applied research. PhD in medical imaging AI from the Institute of Cancer Research, where I shipped a clinical AI platform now used at The Royal Marsden Hospital. Before research, I led ML-driven pricing at Ageas Insurance.
+
+Now running **MIRAI Analytics** - an AI and data analytics consultancy taking projects from scoping through to production deployment.
 
 ---
 
 ### What I'm working on
 
 - **Current:** End-to-end pricing engine for an insurance client, unifying technical (burn cost) and commercial (market price) models into a single optimiser pipeline.
-- **Recent:** Foundation-model adaptation on cancer imaging through my research and also in my own time (see `dinov2-small-mednist` on Hugging Face).
-- **Always:** Computer vision, LLMs, applied ML, pricing & risk modelling, explainable AI.
+- **Recent:** Foundation-model adaptation experiments on medical imaging (see `dinov2-small-mednist` on Hugging Face).
+- **Always:** Computer vision, applied ML, pricing & risk modelling, explainable AI.
 
 ---
 
@@ -40,7 +45,7 @@ I build AI systems across healthcare, insurance, and applied research. PhD in me
 | Domain | Result |
 |---|---|
 | Healthcare AI | Co-created **[OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc)** - a gRPC plugin for OsiriX that brings real-time AI inference into radiologists' DICOM workflows. Deployed at **The Royal Marsden Hospital**, supporting care pathways for **65,000+ patients/year**. Funded by the MedTech SuperConnector and the Sarcoma Accelerator Consortium. |
-| Commercial ML | Led ML pricing at Ageas and delivered a **30% volume uplift** on motor new business |
+| Commercial ML | Led ML pricing at Ageas - delivered a **30% volume uplift** on motor new business |
 | Research | **11 peer-reviewed publications** (MICCAI, AAAI, ISMRM, MIDL). Cancer Research UK 4-Year PhD Studentship |
 | Open source | Contributor to [The Turing Way](https://github.com/the-turing-way/the-turing-way) (2.1k★) and [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) (788★) |
 
@@ -82,17 +87,31 @@ I build AI systems across healthcare, insurance, and applied research. PhD in me
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=timothy22000&theme=default" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timothy22000&theme=default" alt="Most-commit languages" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timothy22000&theme=default" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timothy22000&theme=default&utcOffset=0" alt="Productive time" />
+  <img src="./github-achievements.svg" alt="GitHub achievements" />
 </p>
+
+---
+
+### Selected publications
+
+1. **OsiriXgrpc: Rapid Development and Deployment of State-of-the-Art AI for Clinical Practice** - AAAI 2022 (AI2SE Workshop)
+2. **Radiomics Using Disentangled Latent Features from Deep Representation Learning in Soft-Tissue Sarcoma** - MIDL 2023
+3. **Multimodal Fusion for Radiogenomics Classification of Brain Tumor** - MICCAI 2021 (BraTS Workshop)
+4. **Uncertainty Quantification using U-Net with Monte Carlo Dropout** - MICCAI 2021 (QUBIQ Workshop)
+5. **Test-Retest Repeatability of Data-Driven Radiomic Features from Deep Learning** - ISMRM 2022
+
+Full list (11 papers): see [LinkedIn Publications](https://www.linkedin.com/in/timothysumhonmun/details/publications/).
 
 ---
 
 <p align="center">
   <em>Open to conversations about applied AI roles, consulting engagements, and research collaborations where data and experimentation drive real commercial outcomes at speed.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=80&section=footer" alt="footer" />
 </p>
