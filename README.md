@@ -23,17 +23,15 @@ Skips junior-register elements (animated typing, GIFs, gamified streaks).
 
 ### About
 
-I build production AI systems across healthcare, insurance, and applied research. PhD in medical imaging AI from the Institute of Cancer Research, where I shipped a clinical AI platform now used at The Royal Marsden Hospital. Before research, I led ML-driven pricing at Ageas Insurance.
-
-Now running **[MIRAI Analytics](https://mirai-analytics.com)** - an AI and data analytics consultancy taking projects from scoping through to production deployment.
+I build AI systems across healthcare, insurance, and applied research. PhD in medical imaging AI from the Institute of Cancer Research, where I shipped a clinical AI platform now used at The Royal Marsden Hospital. Before research, I led ML-driven pricing at Ageas Insurance.
 
 ---
 
 ### What I'm working on
 
 - **Current:** End-to-end pricing engine for an insurance client, unifying technical (burn cost) and commercial (market price) models into a single optimiser pipeline.
-- **Recent:** Foundation-model adaptation experiments on medical imaging (see `dinov2-small-mednist` on Hugging Face).
-- **Always:** Computer vision, applied ML, pricing & risk modelling, explainable AI.
+- **Recent:** Foundation-model adaptation on cancer imaging through my research and also in my own time (see `dinov2-small-mednist` on Hugging Face).
+- **Always:** Computer vision, LLMs, applied ML, pricing & risk modelling, explainable AI.
 
 ---
 
@@ -42,7 +40,7 @@ Now running **[MIRAI Analytics](https://mirai-analytics.com)** - an AI and data 
 | Domain | Result |
 |---|---|
 | Healthcare AI | Co-created **[OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc)** - a gRPC plugin for OsiriX that brings real-time AI inference into radiologists' DICOM workflows. Deployed at **The Royal Marsden Hospital**, supporting care pathways for **65,000+ patients/year**. Funded by the MedTech SuperConnector and the Sarcoma Accelerator Consortium. |
-| Commercial ML | Led ML pricing at Ageas - delivered a **30% volume uplift** on motor new business |
+| Commercial ML | Led ML pricing at Ageas and delivered a **30% volume uplift** on motor new business |
 | Research | **11 peer-reviewed publications** (MICCAI, AAAI, ISMRM, MIDL). Cancer Research UK 4-Year PhD Studentship |
 | Open source | Contributor to [The Turing Way](https://github.com/the-turing-way/the-turing-way) (2.1k★) and [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) (788★) |
 
@@ -87,18 +85,6 @@ Now running **[MIRAI Analytics](https://mirai-analytics.com)** - an AI and data 
   <img src="https://github-readme-stats.vercel.app/api?username=timothy22000&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&hide=issues" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy22000&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages" />
 </p>
-
----
-
-### Selected publications
-
-1. **OsiriXgrpc: Rapid Development and Deployment of State-of-the-Art AI for Clinical Practice** - AAAI 2022 (AI2SE Workshop)
-2. **Radiomics Using Disentangled Latent Features from Deep Representation Learning in Soft-Tissue Sarcoma** - MIDL 2023
-3. **Multimodal Fusion for Radiogenomics Classification of Brain Tumor** - MICCAI 2021 (BraTS Workshop)
-4. **Uncertainty Quantification using U-Net with Monte Carlo Dropout** - MICCAI 2021 (QUBIQ Workshop)
-5. **Test-Retest Repeatability of Data-Driven Radiomic Features from Deep Learning** - ISMRM 2022
-
-Full list (11 papers): see [LinkedIn Publications](https://www.linkedin.com/in/timothysumhonmun/details/publications/) or [Google Scholar](#).
 
 ---
 
