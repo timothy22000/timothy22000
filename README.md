@@ -15,7 +15,6 @@ Skips junior-register elements (animated typing, GIFs, gamified streaks).
 <p align="center">
   <a href="https://www.linkedin.com/in/timothysumhonmun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://huggingface.co/t22000t"><img alt="HuggingFace" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black"></a>
-  <a href="https://mirai-analytics.com"><img alt="MIRAI" src="https://img.shields.io/badge/MIRAI%20Analytics-0F172A?style=flat&logoColor=white"></a>
   <a href="mailto:timothy22000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/London%2C%20UK-555?style=flat&logo=googlemaps&logoColor=white">
 </p>
