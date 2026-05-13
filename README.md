@@ -32,9 +32,9 @@ README v4: dialled back for deeptech/HF-audience credibility.
 
 ### About
 
-I build production AI systems across healthcare, insurance, and applied research. PhD in medical imaging AI from the Institute of Cancer Research, where I shipped a clinical AI platform now used at The Royal Marsden Hospital. Before research, I led ML-driven pricing at Ageas Insurance.
+I build AI systems across healthcare, insurance, and applied research. PhD in AI and Cancer Imaging from the Institute of Cancer Research, where I shipped a clinical AI platform now used at The Royal Marsden Hospital. Before research, I led ML-driven pricing at Ageas Insurance.
 
-Now running **MIRAI Analytics** - an AI and data analytics consultancy taking projects from scoping through to production deployment.
+Now running an AI and data analytics consultancy taking projects from scoping through to production deployment.
 
 ---
 
@@ -73,11 +73,34 @@ Removes the historical bottleneck for clinical AI translation: state-of-the-art 
 
 ### On Hugging Face
 
+#### 🏥 Clinical AI (featured)
+
+[![Space](https://img.shields.io/badge/%F0%9F%A4%97%20Space-Clinical%20AI%20GradCAM%20Demo-FFD21E?style=flat)](https://huggingface.co/spaces/t22000t/clinical-ai-gradcam-demo)
 [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-dinov2--small--mednist-FFD21E?style=flat)](https://huggingface.co/t22000t/dinov2-small-mednist)
 
-DINOv2-small fine-tuned on MedMNIST v2 for medical image classification. MONAI-compatible, SafeTensors, Apache-2.0. Companion artefact to PhD research on foundation-model adaptation for clinical imaging.
+Interactive medical-image classification with **GradCAM** explainability visualisations - upload an image, see the model's classification and the regions it attended to. Built around a **DINOv2-small** vision transformer fine-tuned on **MedMNIST v2**. MONAI-compatible, SafeTensors, Apache-2.0.
 
-More models in development. Follow [@t22000t](https://huggingface.co/t22000t) for updates.
+> **Used as teaching material for:**
+> - The **Clinical AI Summer School** at **The Alan Turing Institute** - the Institute's hands-on training programme for clinicians.
+> - The **clinical student cohort at the University of Southampton**.
+
+A direct, hands-on demonstration of explainable medical AI - the same principles I worked on during my PhD on explainable AI for soft-tissue sarcoma at the Institute of Cancer Research, distilled into a public artefact that clinicians can pick up in minutes.
+
+#### Other Hugging Face work
+
+[![Collection](https://img.shields.io/badge/%F0%9F%A4%97%20Collection-slaythespire--codex-FFD21E?style=flat)](https://huggingface.co/collections/t22000t/slaythespire-codex)
+
+A collection covering card data, multimodal embeddings, and three Gradio spaces for Slay the Spire (STS 1 + STS 2). Personal experiments testing retrieval, embeddings, clustering, and LLM-driven recommendation on a well-defined constrained domain.
+
+| Type | Title | What |
+|---|---|---|
+| Space | [Build Me a Deck](https://huggingface.co/spaces/t22000t/slaythespire-build-me-a-deck) | LLM-driven deck recommendation from playstyle description |
+| Space | [Synergy Inspector](https://huggingface.co/spaces/t22000t/slaythespire-synergy-inspector) | Pairwise synergy modelling + custom card design assistant |
+| Space | [Archetype Map](https://huggingface.co/spaces/t22000t/slaythespire-archetype-map) | Interactive UMAP map of every STS 1 + 2 card |
+| Space | [OPTCG Card Explorer](https://huggingface.co/spaces/t22000t/optcg-explorer) | Semantic search over One Piece TCG cards |
+| Datasets | [+10 datasets](https://huggingface.co/t22000t) | Card data and multimodal embeddings for STS 1 + 2 and OPTCG |
+
+Follow [@t22000t](https://huggingface.co/t22000t) for updates.
 
 ---
 
