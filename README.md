@@ -11,7 +11,7 @@ README v4: dialled back for deeptech/HF-audience credibility.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=Timothy%20Sum%20Hon%20Mun&fontSize=40&fontColor=0F172A&fontAlignY=45&desc=AI%2FML%20Scientist%20%26amp%3B%20Engineer%20%E2%80%A2%20Founder%2C%20MIRAI%20Analytics&descSize=15&descAlign=50&descAlignY=78" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=190&section=header&text=Timothy%20Sum%20Hon%20Mun&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Scientist%20%26amp%3B%20Engineer%20%E2%80%A2%20Founder%2C%20MIRAI%20Analytics&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">

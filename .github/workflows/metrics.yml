@@ -27,8 +27,6 @@ jobs:
           plugin_languages_ignored: html, css, scss, tex
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 12
