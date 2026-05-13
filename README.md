@@ -82,8 +82,13 @@ I build AI systems across healthcare, insurance, and applied research. PhD in me
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timothy22000&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&hide=issues" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy22000&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=timothy22000&theme=default" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timothy22000&theme=default" alt="Most-commit languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timothy22000&theme=default" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timothy22000&theme=default&utcOffset=0" alt="Productive time" />
 </p>
 
 ---
