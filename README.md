@@ -36,7 +36,7 @@ README v4: dialled back for deeptech/HF-audience credibility.
 
 ---
 
-> **TLDR.** PhD in AI and Cancer Imaging at the Institute of Cancer Research; co-created [OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc), a clinical AI plugin used at The Royal Marsden serving care for patients. Previously delivered a 30% volume uplift and £5M increase in GWP on motor new business in commercial ML at Ageas Insurance. 11 abstracts/papers across MICCAI, AAAI, ISMRM, MIDL. Now running an AI and data analytics consultancy.
+> **TLDR.** PhD in AI and Cancer Imaging at the Institute of Cancer Research; co-created [OsiriXgrpc](https://github.com/osirixgrpc/osirixgrpc), a clinical AI plugin used at The Royal Marsden Hospital for research. Previously delivered a 30% volume uplift and £5M increase in GWP on motor new business in commercial ML in the insurance industry. 11 abstracts/papers across MICCAI, AAAI, ISMRM, MIDL
 
 ### About
 
