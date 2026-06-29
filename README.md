@@ -128,9 +128,7 @@ Automated checks over sensitive tabular data: anonymise, generate synthetic data
 | Space | [Privacy Lab](https://huggingface.co/spaces/t22000t/privacy-lab) | Anonymise a CSV, then red-team it with 10 attacks to see what leaks |
 | Repo | [data-anonymization-toolkit](https://github.com/timothy22000/data-anonymization-toolkit) | The config-driven engine behind both: anonymisation, synthetic generation, adversarial validation |
 
-#### 🧭 Interactive AI explainers
-
-Built to make how modern AI works legible to non-specialists.
+#### 🧭 Interactive Visualisations and Explainers
 
 <p align="center">
   <a href="https://ai-loop.app">
