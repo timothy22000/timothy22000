@@ -46,10 +46,9 @@ Now running an AI and data analytics consultancy taking projects from scoping th
 
 ### Currently
 
-- 🛠️ **Building:** Interactive explainers for how AI works in practice - an [interactive map of the AI economy](https://ai-loop.app) and a [guide to running models locally](https://huggingface.co/spaces/t22000t/local-ai-guide) (model, GPU and cost comparisons).
-- 🔬 **Experimenting:** Privacy and audit tooling for tabular data, agentic document extraction, and foundation-model adaptation for medical imaging.
-- 🧰 **Consulting:** Running an AI and data analytics consultancy - pricing, predictive modelling, and computer vision engagements.
-- 📖 **Reading:** *Interpretable Machine Learning* by Christoph Molnar; recent MICCAI proceedings.
+- 🛠️ **Building:** End-to-end pricing engine for an insurance client, unifying technical (burn cost) and commercial (market price) models into a single optimiser pipeline.
+- 🔬 **Experimenting:** Foundation-model adaptation for medical imaging - see `dinov2-small-mednist` on Hugging Face.
+- 📖 **Reading:** *The Foundation Models Initiative* by Stanford CRFM; *Interpretable Machine Learning* by Christoph Molnar; recent MICCAI proceedings.
 
 ---
 
